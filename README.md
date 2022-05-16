@@ -27,7 +27,7 @@ keys.
 
 # Setup
 Please clone the project and in the command line within the same directory of
-project use ``python setup.py sdist bdist_wheel`` to setup the project 
+project use ``python setup.py sdist`` or ``python setup.py sdist bdist_wheel`` to setup the project 
 and use the w2p module.
 
 # Sample data
